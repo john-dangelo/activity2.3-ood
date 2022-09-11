@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Welcome to my blag
 ---
 
+### oooh, so fancy, such homepage, very professional
+#### wow
